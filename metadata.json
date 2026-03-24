@@ -1,0 +1,5 @@
+{
+  "name": "SafeZone",
+  "description": "A high-tech personal safety application with real-time emergency networking and SOS capabilities.",
+  "requestFramePermissions": ["geolocation"]
+}
